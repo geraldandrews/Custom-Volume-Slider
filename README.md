@@ -6,5 +6,5 @@
 ### Date Created: 2024
 
 ## Description: 
-Custom volume slider with play/pause functionality and displays the volume percentage as the user increases or decreases volume and also gives the user the option to mute or
+Custom volume slider with play/pause functionality that displays the volume percentage as the user increases or decreases volume and also gives the user the option to mute or
 unmute the volume if desired.
