@@ -1,4 +1,4 @@
-# Responsive Navbar
+# Volume Slider
 ### Live Site: https://geraldandrews.github.io/Custom-Volume-Slider/
 
 ### Project Description: Personal
